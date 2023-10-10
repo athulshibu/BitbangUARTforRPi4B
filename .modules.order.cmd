@@ -1,0 +1,1 @@
+cmd_/home/athul/Desktop/Athul/Workspace/ldd/custom_drivers/bitbang/modules.order := {   echo /home/athul/Desktop/Athul/Workspace/ldd/custom_drivers/bitbang/device_setup.ko;   echo /home/athul/Desktop/Athul/Workspace/ldd/custom_drivers/bitbang/platform_driver.ko; :; } > /home/athul/Desktop/Athul/Workspace/ldd/custom_drivers/bitbang/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/athul/Desktop/Athul/Workspace/ldd/custom_drivers/bitbang/platform_driver.mod := printf '%s\n'   platform_driver.o | awk '!x[$$0]++ { print("/home/athul/Desktop/Athul/Workspace/ldd/custom_drivers/bitbang/"$$0) }' > /home/athul/Desktop/Athul/Workspace/ldd/custom_drivers/bitbang/platform_driver.mod
